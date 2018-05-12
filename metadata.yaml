@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1298
     wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14243#Christopher-Carson-Familiarly-Known-as-Kit-Carson
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text
 identifiers:
