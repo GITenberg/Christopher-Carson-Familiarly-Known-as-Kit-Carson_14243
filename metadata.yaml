@@ -1,0 +1,37 @@
+_repo: Christopher-Carson-Familiarly-Known-as-Kit-Carson_14243
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greatorex, Elizabeth Eleanor
+    alias: Greatorex, Eleanor
+    birthdate: 1854
+    gutenberg_agent_id: '38374'
+    url: http://www.gutenberg.org/2009/agents/38374
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Carson Kit, 1809-1868'
+title: Christopher Carson, Familiarly Known as Kit Carson
+url: http://www.gutenberg.org/ebooks/14243
